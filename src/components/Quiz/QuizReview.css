@@ -1,0 +1,22 @@
+.option {
+  background-color: #f1f1f1 !important;
+  width: 100% !important;
+  justify-content: flex-start !important;
+  pointer-events: none !important;
+  text-transform: none !important;
+  box-shadow: none !important;
+  margin: 8px auto !important;
+  padding: 8px !important;
+}
+
+.correctAnswer {
+  background-color: #d4edda !important;
+}
+  
+.wrongAnswer {
+  background-color:#f8d7da !important;
+}
+
+.notSelected {
+  background-color: #ddd !important;
+}
